@@ -1,0 +1,23 @@
+/*===================================================================*/
+/* KOI CHANGELOG
+/*===================================================================*/ 
+
+JAN 10 2014 - Version 1.0.2
+	*Added portfolio sort option in Portfolio Loop Customizer
+		-content-portfolio.php (lines 25-68)
+		-inc/customizer/customizer.php (line 302)
+	*Performance & Maintenance
+		-load_theme_textdomain fix (functions.php line 127)
+		-style.css (version number)
+				
+JAN 6 2014 - Version 1.0.1
+	*Page title meta on/off fix
+		-page-archives.php (line 23)
+		-page-comingsoon.php (line 34)
+		-page-contact.php (line 73)
+		-page-underconstruction.php (line 28)
+	*Performance & Maintenance
+		-style.css (version number)
+		
+DEC 31 2013 - Version 1.0
+	*First Release
